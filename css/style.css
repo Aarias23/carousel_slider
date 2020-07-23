@@ -79,3 +79,20 @@ body {
     }
 }
 
+@media screen and (max-width: 430px) {
+    .module {
+        font-size: 12px;
+    }
+
+    .d-block {
+        height: 50vh;
+    }
+
+    .text-muted {
+        font-size: 12px;
+    }
+
+    .header_text {
+        font-size: 14px;
+    }
+}
